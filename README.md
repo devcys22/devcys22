@@ -36,23 +36,3 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/devcys22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/%EC%98%88%EC%86%94-%EC%B5%9C-85345a230" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devcys22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
